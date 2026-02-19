@@ -1,6 +1,6 @@
 import java.util.*;
 
-//Use Case 8 : Deque-Based Optimized Palindrome Checker
+//Use Case 8 : Linked List Based Palindrome Checker
 public class UseCase8PalindromeCheckerApp {
     public static void main (String [] args) {
         String input = "level";
